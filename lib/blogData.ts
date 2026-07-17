@@ -103,8 +103,7 @@ export const blogPosts: BlogPost[] = [
       <h3>Key Players to Watch</h3>
       <p><strong>India:</strong> The opening partnership will be crucial, alongside the middle-order stability. Spinners are expected to play a decisive role in the middle overs on subcontinental pitches.</p>
       <p><strong>Australia:</strong> Their pace attack and aggressive powerplay hitting will be their primary weapons. Look out for their all-rounders who provide depth in both batting and bowling departments.</p>
-      
-      <h3>Pitch & Weather Analytics</h3>
+      <p><strong>Pitch & Weather Analytics</strong></p>
       <p>Matches in Chennai and Delhi are expected to favor spin and slow bowling, whereas the venue in Mumbai will offer a batting paradise with short boundaries. Check the dew factor if placing live bets during second innings.</p>
       
       <h3>Top Recommended Betting Markets</h3>
@@ -114,6 +113,36 @@ export const blogPosts: BlogPost[] = [
         <li><strong>Total Sixes:</strong> A fun market, particularly for high-scoring venues like Mumbai.</li>
       </ul>
       <p>Log into your Lotus Book ID to access live odds, in-play statistics, and instant bet slips for every ball of the series.</p>
+    `
+  },
+  {
+    slug: "el-clasico",
+    title: "El Clasico: The Rivalry, Recent Results & What's Next",
+    excerpt: "El Clasico explained — Real Madrid vs Barcelona's history, the 2025-26 results including Barca's title-clinching win, and when the next Clasico is played.",
+    date: "July 14, 2026",
+    category: "Football",
+    icon: "⚽",
+    readTime: "6 min read",
+    content: `
+      <p>No other fixture in club football has such a rich history, heated rivalries or globalised appeal. El Clasico - the encounters between Real Madrid and Barcelona - has seen league titles decided, managerial careers ended, and entire eras defined. And, incredibly, the 2025-26 season produced the most unique twist of all: Barca winning the league in the Clasico itself, with a 2-0 win over Madrid in May with three matches to spare.</p>
+      
+      <h3>What Is El Clasico</h3>
+      <p>The fixture, which rages across more than a century, usually sees the Spanish giants face each other at least twice per La Liga season, with further meetings typically coming in the cup or Supercopa. A political, social, and footballing clash, the fixture unites the country's two most successful clubs and has long attracted wider cultural attention. El Clasico is the most-watched club match in the world. The 2009-14 era, when <a href="/messi-vs-ronaldo/">Messi vs Ronaldo</a> were at their peaks, saw the fixture become a genuine twice-yearly worldwide event, while the new rivals Yamal and Mbappe promise to bring the heat to the 2026-27 fixtures.</p>
+      
+      <h3>The 2025-26 Clasicos</h3>
+      <p>Two league matches, split between the rivals: Real Madrid won the early encounter at the Bernabéu in October, before a dramatic title-clinching win for Barca in the return fixture. The 10 May match at Camp Nou saw Hansi Flick's men seal their second successive league title and claim their 29th La Liga triumph. The two teams have also met across the cup competitions, with this page being updated to include the latest fixture(s) every season. Here, you can see all of the matches between the Spanish rivals that have taken place this season.</p>
+      
+      <h3>The Rivalry in Numbers</h3>
+      <p>Over 260 competitive fixtures, making El Clasico a relatively frequent meeting in the footballing calendar. Real Madrid have an incredibly slight advantage over their great rivals in terms of overall wins, although the balance frequently shifts depending on whether friendly matches are included or not, with this list being updated every season to reflect the latest meetings. Note the goalscoring record of Lionel Messi, the fixture's all-time top scorer, as well as the unique 2011 stretch in which both teams faced one another four times across eighteen days (Guardiola vs. Mourinho) — the rivalry's most feverish period.</p>
+      
+      <h3>When Is the Next El Clasico</h3>
+      <p>The first Clasico of the 2026-27 La Liga season will take place when the league's fixture list is announced in July. When the date, venue, kick-off time (and IST conversion) are released, this page will be updated accordingly. In the meantime, once the first 2026-27 match has been played, this section will switch to showing the result and report.</p>
+      
+      <h3>Related Football Insights</h3>
+      <ul>
+        <li>Track the latest standings in the <a href="/premier-league-table/">Premier League table</a></li>
+        <li>See the historical list of <a href="/ballon-dor-winners/">Ballon d'Or winners</a></li>
+      </ul>
     `
   }
 ];

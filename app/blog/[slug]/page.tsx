@@ -35,9 +35,11 @@ export async function generateMetadata({
 }
 
 export async function generateStaticParams() {
-  return blogPosts.map((post) => ({
-    slug: post.slug,
-  }));
+  return blogPosts
+    .filter((post) => post.slug !== 'el-clasico')
+    .map((post) => ({
+      slug: post.slug,
+    }));
 }
 
 interface PageProps {
@@ -46,6 +48,11 @@ interface PageProps {
 
 export default async function BlogPostPage({ params }: PageProps) {
   const resolvedParams = await params;
+
+  if (resolvedParams.slug === 'el-clasico') {
+    notFound();
+  }
+
   const post = blogPosts.find((p) => p.slug === resolvedParams.slug);
 
   if (!post) {

@@ -22,7 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const blogRoutes = blogPosts.map((post) => ({
-    url: `${baseUrl}/blog/${post.slug}`,
+    url: post.slug === 'el-clasico' ? `${baseUrl}/el-clasico/` : `${baseUrl}/blog/${post.slug}`,
     lastModified: now,
     changeFrequency: 'weekly' as const,
     priority: 0.6,
