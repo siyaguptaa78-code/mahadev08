@@ -6,60 +6,44 @@ import { HelpCircle, Plus, Minus } from 'lucide-react';
 
 const fullFaqs = [
   {
-    q: "What is Mahadev Book Online Betting ID?",
-    a: "The Mahadev Book Online Betting ID is a verified account that lets you access betting services such as cricket, casino, poker, and more. With this ID, users can deposit funds, place bets, and enjoy a secure gaming experience."
+    q: "What is Mahadev Book?",
+    a: "Mahadev Book is the brand or website referenced on this domain. Check the site's current pages and terms for the latest information."
   },
   {
-    q: "How does Mahadev Book work?",
-    a: "Mahadev Book is an online gateway. After contacting an agent via WhatsApp, we create a secure account for you on the official betting exchange. You deposit funds via convenient channels (UPI, IMPS, GPay, Paytm) and chips are added to your ID. You place your bets, and upon win, request payouts that land directly in your bank account."
+    q: "How does a Mahadev Book ID work?",
+    a: "An account ID is generally used to identify a user account. Refer to Mahadev Book's current account instructions and terms for the exact process."
   },
   {
-    q: "How do I join Mahadev Book?",
-    a: "You join by clicking on our WhatsApp contact link. Our team is available 24/7. Simply send a message requesting a new ID registration. They will guide you through creating your credentials."
+    q: "How can I access Mahadev Book?",
+    a: "Use the site's current official URL and verify the domain before entering any account information. Follow the access instructions published on the site."
   },
   {
-    q: "How do I register for a new Online Betting ID?",
-    a: "Registering requires just a WhatsApp message. No long sign-up forms are needed. Send your name, choose a username prefix, and make your first secure deposit. Your official login link and credentials will be sent to you in minutes."
+    q: "What sports are available on Mahadev Book?",
+    a: "Available sports can change. Check the current sports or betting section on the website for the latest list and availability."
   },
   {
-    q: "How can I get a Mahadev Book franchise?",
-    a: "To obtain a franchise or master ID and start operating as a bookmaker partner under the Mahadev Book brand, contact our corporate compliance desk through WhatsApp and ask for 'Franchise/Master ID details'. A verification agent will review your request."
+    q: "Does Mahadev Book provide live sports information?",
+    a: "Check the site's current sports section for any live-event information and the terms that apply to its use."
   },
   {
-    q: "What games can I play with my Mahadev Book ID?",
-    a: "You can place bets on live cricket (IPL, ODIs, Test matches), football tournaments, tennis matches, kabaddi, e-sports, and live virtual simulations. Additionally, casino classics like Teen Patti, Andar Bahar, Poker, Baccarat, and Roulette are supported."
+    q: "How can I get help with my Mahadev Book account?",
+    a: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts."
   },
   {
-    q: "How do I deposit money into my Mahadev Book account?",
-    a: "Text your support manager on WhatsApp. They will provide the active UPI details or bank transfer numbers. Make the payment, share the transaction receipt/screenshot, and your betting chips will be updated on your screen within minutes."
+    q: "How do I find Mahadev Book login information?",
+    a: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel."
   },
   {
-    q: "How do I withdraw my winnings?",
-    a: "Withdrawals are simple. Send a message to your WhatsApp agent with your username and the cashout amount. Provide your UPI address or bank account numbers. The funds will be credited to you in 5 to 10 minutes."
+    q: "What payment options are supported?",
+    a: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts."
   },
   {
-    q: "Is Mahadev Book legal in India?",
-    a: "Online sports insights are constitutionally protected as games of skill in India. Real-money betting itself is regulated by individual states. Some states explicitly ban it, while others allow it. Verify your local state guidelines before playing."
+    q: "What should I do if I have trouble accessing my account?",
+    a: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel."
   },
   {
-    q: "Is Mahadev Book safe and trusted?",
-    a: "Yes. We use advanced SSL encryption and certified fair-play engines. We have supported over 1.2M active users since 2018 with a solid track record of processing withdrawals without any delays."
-  },
-  {
-    q: "Is my personal information secure with Mahadev Book?",
-    a: "Yes, absolute privacy is guaranteed. We store customer profiles on highly secure servers and never share your registration details or contact information with third-party networks."
-  },
-  {
-    q: "Can I use Mahadev Book on my mobile phone?",
-    a: "Absolutely! The platform is designed to work smoothly on mobile browsers. You can also download our official Android and iOS applications by contacting our support desk."
-  },
-  {
-    q: "Is Mahadev Book genuine or fake?",
-    a: "Mahadev Book is 100% genuine. We are India's oldest sports ID aggregator. Beware of copycat websites and phishing links; only use official routes sent by our verified WhatsApp agents."
-  },
-  {
-    q: "What is the Mahadev Book contact number?",
-    a: "The official contact is provided via our WhatsApp buttons. Our active verified support number is +91 88721 89728. Always verify that you are chatting with our official business profile."
+    q: "Where can I find the latest Mahadev Book updates?",
+    a: "Refer to Mahadev Book's current website information and terms for the most accurate answer."
   }
 ];
 
