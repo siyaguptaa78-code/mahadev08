@@ -19,7 +19,7 @@ const fullFaqs = [
   },
   {
     q: "What sports are available on Mahadev Book?",
-    a: "Available sports can change. Check the current sports or betting section on the website for the latest list and availability."
+    a: "Available sports can change. Check the current sports or gaming section on the website for the latest list and availability."
   },
   {
     q: "Does Mahadev Book provide live sports information?",

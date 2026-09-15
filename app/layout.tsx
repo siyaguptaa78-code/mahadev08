@@ -42,7 +42,7 @@ const structuredData = {
       "@id": "https://mahadevanna.live/#webpage",
       "url": "https://mahadevanna.live/",
       "name": "Mahadev Book Official Website | ID & Account Guide",
-      "description": "Explore Mahadev Book information, online ID guidance, sports betting and gaming resources, account help, and frequently asked questions.",
+      "description": "Explore Mahadev Book information, online ID guidance, sports gaming and gaming resources, account help, and frequently asked questions.",
       "isPartOf": {
         "@id": "https://mahadevanna.live/#website"
       }
@@ -81,7 +81,7 @@ const structuredData = {
           "name": "What sports are available on Mahadev Book?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Available sports can change. Check the current sports or betting section on the website for the latest list and availability."
+            "text": "Available sports can change. Check the current sports or gaming section on the website for the latest list and availability."
           }
         },
         {
